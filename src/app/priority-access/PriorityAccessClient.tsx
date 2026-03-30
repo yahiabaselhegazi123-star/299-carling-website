@@ -39,8 +39,18 @@ export default function PriorityAccessClient() {
         setMessage(data.message || 'Something went wrong. Please try again.')
       }
     } catch {
-      setStatus('error')
-      setMessage('Network error. Please try again.')
+      // Fallback for static hosting (GitHub Pages): open the user's email client
+      // with a pre-filled message so the registration still reaches the developer.
+      try {
+        window.location.href =
+          `mailto:Yahiabaselhegazi123@gmail.com?subject=Priority%20Access%20Registration%20%E2%80%93%20299%20Carling&body=Please%20add%20me%20to%20the%20priority%20access%20list.%0A%0AEmail%3A%20${encodeURIComponent(email)}`;
+        setStatus('success');
+        setMessage('Your email client has been opened with a pre-filled message. Please send it to complete your registration.');
+        setEmail('');
+      } catch {
+        setStatus('error');
+        setMessage('Network error. Please try again or email us directly at Yahiabaselhegazi123@gmail.com');
+      }
     }
   }
 
