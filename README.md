@@ -4,7 +4,7 @@ A premium luxury real estate marketing website for **299 Carling Avenue**, Ottaw
 
 ## Tech Stack
 
-- **Next.js 14** (App Router)
+- **Next.js 15** (App Router)
 - **TypeScript**
 - **Tailwind CSS**
 - **Resend** (email API)
@@ -56,7 +56,7 @@ npm start
 3. Add environment variables in the Vercel dashboard
 4. Deploy
 
-The site is optimized for Vercel's Edge Network with Next.js 14 App Router.
+The site is optimized for Vercel's Edge Network with Next.js 15 App Router.
 
 ## Project Structure
 
