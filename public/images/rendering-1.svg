@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sky1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1b2838;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="building1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a2a3e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a2a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky1)" />
+  <rect y="650" width="1200" height="150" fill="#0a0a0f" />
+  <rect x="350" y="120" width="280" height="530" fill="url(#building1)" />
+  <g fill="#c9a96e" opacity="0.4">
+    <rect x="370" y="140" width="30" height="20" rx="2" />
+    <rect x="420" y="140" width="30" height="20" rx="2" />
+    <rect x="470" y="140" width="30" height="20" rx="2" />
+    <rect x="520" y="140" width="30" height="20" rx="2" />
+    <rect x="570" y="140" width="30" height="20" rx="2" />
+    <rect x="370" y="180" width="30" height="20" rx="2" />
+    <rect x="420" y="180" width="30" height="20" rx="2" />
+    <rect x="470" y="180" width="30" height="20" rx="2" />
+    <rect x="520" y="180" width="30" height="20" rx="2" />
+    <rect x="570" y="180" width="30" height="20" rx="2" />
+    <rect x="370" y="220" width="30" height="20" rx="2" />
+    <rect x="420" y="220" width="30" height="20" rx="2" />
+    <rect x="470" y="220" width="30" height="20" rx="2" />
+    <rect x="520" y="220" width="30" height="20" rx="2" opacity="0.8" />
+    <rect x="570" y="220" width="30" height="20" rx="2" />
+    <rect x="370" y="260" width="30" height="20" rx="2" />
+    <rect x="420" y="260" width="30" height="20" rx="2" opacity="0.8" />
+    <rect x="470" y="260" width="30" height="20" rx="2" />
+    <rect x="520" y="260" width="30" height="20" rx="2" />
+    <rect x="570" y="260" width="30" height="20" rx="2" />
+    <rect x="370" y="300" width="30" height="20" rx="2" />
+    <rect x="420" y="300" width="30" height="20" rx="2" />
+    <rect x="470" y="300" width="30" height="20" rx="2" />
+    <rect x="520" y="300" width="30" height="20" rx="2" />
+    <rect x="570" y="300" width="30" height="20" rx="2" opacity="0.8" />
+    <rect x="370" y="340" width="30" height="20" rx="2" opacity="0.8" />
+    <rect x="420" y="340" width="30" height="20" rx="2" />
+    <rect x="470" y="340" width="30" height="20" rx="2" />
+    <rect x="520" y="340" width="30" height="20" rx="2" />
+    <rect x="570" y="340" width="30" height="20" rx="2" />
+    <rect x="370" y="380" width="30" height="20" rx="2" />
+    <rect x="420" y="380" width="30" height="20" rx="2" />
+    <rect x="470" y="380" width="30" height="20" rx="2" opacity="0.8" />
+    <rect x="520" y="380" width="30" height="20" rx="2" />
+    <rect x="570" y="380" width="30" height="20" rx="2" />
+    <rect x="370" y="420" width="30" height="20" rx="2" />
+    <rect x="420" y="420" width="30" height="20" rx="2" />
+    <rect x="470" y="420" width="30" height="20" rx="2" />
+    <rect x="520" y="420" width="30" height="20" rx="2" />
+    <rect x="570" y="420" width="30" height="20" rx="2" opacity="0.8" />
+    <rect x="370" y="460" width="30" height="20" rx="2" />
+    <rect x="420" y="460" width="30" height="20" rx="2" opacity="0.6" />
+    <rect x="470" y="460" width="30" height="20" rx="2" />
+    <rect x="520" y="460" width="30" height="20" rx="2" />
+    <rect x="570" y="460" width="30" height="20" rx="2" />
+  </g>
+  <rect x="150" y="280" width="180" height="370" fill="#1f1f2e" />
+  <g fill="#c9a96e" opacity="0.25">
+    <rect x="170" y="300" width="25" height="15" rx="1" />
+    <rect x="210" y="300" width="25" height="15" rx="1" />
+    <rect x="250" y="300" width="25" height="15" rx="1" />
+    <rect x="290" y="300" width="25" height="15" rx="1" />
+    <rect x="170" y="330" width="25" height="15" rx="1" />
+    <rect x="210" y="330" width="25" height="15" rx="1" />
+    <rect x="250" y="330" width="25" height="15" rx="1" />
+    <rect x="290" y="330" width="25" height="15" rx="1" />
+    <rect x="170" y="360" width="25" height="15" rx="1" />
+    <rect x="210" y="360" width="25" height="15" rx="1" />
+    <rect x="250" y="360" width="25" height="15" rx="1" />
+    <rect x="290" y="360" width="25" height="15" rx="1" />
+    <rect x="170" y="390" width="25" height="15" rx="1" />
+    <rect x="210" y="390" width="25" height="15" rx="1" />
+    <rect x="250" y="390" width="25" height="15" rx="1" />
+    <rect x="290" y="390" width="25" height="15" rx="1" />
+    <rect x="170" y="420" width="25" height="15" rx="1" />
+    <rect x="210" y="420" width="25" height="15" rx="1" />
+    <rect x="250" y="420" width="25" height="15" rx="1" />
+    <rect x="290" y="420" width="25" height="15" rx="1" />
+  </g>
+  <rect x="660" y="220" width="200" height="430" fill="#1f1f2e" />
+  <rect x="350" y="118" width="280" height="4" fill="#c9a96e" opacity="0.8" />
+  <line x1="200" y1="640" x2="200" y2="700" stroke="#c9a96e" stroke-width="2" opacity="0.5" />
+  <circle cx="200" cy="638" r="4" fill="#c9a96e" opacity="0.7" />
+  <line x1="800" y1="640" x2="800" y2="700" stroke="#c9a96e" stroke-width="2" opacity="0.5" />
+  <circle cx="800" cy="638" r="4" fill="#c9a96e" opacity="0.7" />
+  <text x="600" y="760" font-family="Georgia, serif" font-size="18" fill="#c9a96e" opacity="0.5" text-anchor="middle" letter-spacing="8">299 CARLING AVENUE</text>
+</svg>
